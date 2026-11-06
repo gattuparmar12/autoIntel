@@ -16,6 +16,7 @@ AutoIntel is an advanced autonomous AI agent built using **Node.js** and the **@
 - **AI SDK:** `@google/genai`
 - **Environment Management:** `dotenv`
 
+
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository:**
